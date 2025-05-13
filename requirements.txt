@@ -1,0 +1,19 @@
+# Core dependencies
+python-dotenv
+pydantic
+numpy
+
+# OpenAI
+openai>=1.0.0
+
+# PDF processing
+pdfplumber
+tiktoken
+
+# Vector store
+faiss-cpu>=1.7.0
+
+# For web ingestion
+playwright
+readability-lxml
+beautifulsoup4
